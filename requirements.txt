@@ -12,7 +12,7 @@ python-dateutil == 2.8.1
 requests == 2.25.1
 scrapy == 2.4.1
 simplejson == 3.17.2
-twisted == 20.3.0
+twisted == 22.10.0
 paho-mqtt == 1.5.1
 pynt==0.8.2
 pytz
